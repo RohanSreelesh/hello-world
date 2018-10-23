@@ -1,7 +1,11 @@
 # hello-world
 
-Hello !
+\"Hello Sugar Labs\"
 
-Hello ,this is Rohan. 
+I'm Rohan S. I am currently working hard to improve my python skills so as to 
+be able to contribute to open source projects like yours. 
 
-I hope you're having a great day!
+Best Regards
+Rohan S
+
+
